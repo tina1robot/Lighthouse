@@ -1,2 +1,4 @@
 # Lighthouse
-Projects and related work from my time at lthe Cybersecurity bootcamp by Lighthouse Labs 
+
+This repository is for the projects and related work i did while attending the 12 week Cybersecurity bootcamp by Lighthouse Labs 
+Grouped by project and additional informational folders.
