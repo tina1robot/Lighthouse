@@ -1,0 +1,14 @@
+Log Monitoring Report
+Date: 2024-07-25 18:09:57
+
+Failed Login Attempts
+IP Address       | Failed Attempts
+------------------------------
+
+Sensitive Resource Access
+IP Address       | Access Attempts
+------------------------------
+
+Unusual Login Times
+IP Address       | Unusual Times
+------------------------------
